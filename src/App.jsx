@@ -1,4 +1,5 @@
 import Counter from "./components/Counter"
+import GameList from "./components/GameList"
 import Toggle from "./components/Toggle"
 import UserRegistration from "./components/UserRegistration"
 
@@ -9,6 +10,7 @@ function App() {
       <Counter />
       <UserRegistration />
       <Toggle />
+      <GameList />
     </>
   )
 }
